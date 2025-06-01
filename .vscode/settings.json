@@ -1,0 +1,11 @@
+{
+	"editor.codeActionsOnSave": {
+		"source.organizeImports.biome": "explicit",
+		"source.fixAll.biome": "explicit",
+		"quickfix.biome": "explicit"
+	},
+	"editor.formatOnSave": true,
+	"editor.defaultFormatter": "biomejs.biome",
+	"typescript.enablePromptUseWorkspaceTsdk": true,
+	"typescript.tsdk": "node_modules/typescript/lib"
+}

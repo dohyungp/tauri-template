@@ -1,0 +1,16 @@
+{
+	"name": "@dohyungp/tauri-template",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start:dev": "pnpm --filter @dohyungp/desktop tauri dev"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"@biomejs/biome": "1.9.4"
+	}
+}
